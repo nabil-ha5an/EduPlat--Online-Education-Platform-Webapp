@@ -3,6 +3,7 @@ A webapp made using Laravel and PHP as an academic project that enables students
 
 ### Project Demonstration
 [![Watch the Demo](https://img.youtube.com/vi/9mAgjj95UF8/hqdefault.jpg)](https://youtu.be/9mAgjj95UF8)
+
 *Click the image above to watch the EduPlat walkthrough.*
 
 ### Technical Stack:
