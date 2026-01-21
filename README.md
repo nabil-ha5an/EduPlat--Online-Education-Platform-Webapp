@@ -3,7 +3,7 @@ A webapp made using Laravel and PHP as an academic project that enables students
 
 ### Project Demonstration
 [![Watch the Demo](https://img.youtube.com/vi/a9_akDWl10A/maxresdefault.jpg)](https://youtu.be/a9_akDWl10A)
-*Click the image above to watch the University Enrollment System functional walkthrough.*
+*Click the image above to watch the EduPlat walkthrough.*
 
 ### Technical Stack:
 Laravel, PHP, HTML, and CSS
